@@ -6,5 +6,5 @@ I'm learning to code and building stuff.
 🚀 [SharedDesk](https://github.com/Simon-Mrc/sharedDesk) - Collaborative workspace manager
 
 ## Stats
-- 📅 Started coding: 24 days ago
+- 📅 Started coding: 26/01/2026
 - 💻 Current focus: JavaScript, DOM manipulation, data persistence

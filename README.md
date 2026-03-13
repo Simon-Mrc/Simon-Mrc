@@ -2,9 +2,14 @@
 
 I'm learning to code and building stuff.
 
-## Current Project
-🚀 [SharedDesk](https://github.com/Simon-Mrc/sharedDesk) - Collaborative workspace manager
-
-## Stats
+## 📊 Stats
 - 📅 Started coding: 26/01/2026
-- 💻 Current focus: JavaScript, DOM manipulation, data persistence
+- 💻 Current focus: TypeScript, React, Node.js,
+- 
+## 🚀 Current Project
+**[SharedDesk V2](https://github.com/Simon-Mrc/sharedDeskV2)** - Collaborative workspace manager
+- 📁 File & folder system with drag and drop
+- 🔒 Password protected items
+- 👥 Desk sharing & user invite system
+- 🔔 Real-time notification system for item updates
+- 🌳 Interactive file tree
